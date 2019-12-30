@@ -44,3 +44,5 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+/src/app/auth.guard.spec.ts
+/src/app/super-secret/super-secret.component.spec.ts
